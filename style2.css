@@ -1,0 +1,50 @@
+h1{
+    color: antiquewhite;
+}
+body {
+    background-image: url('bg.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+#myImage1{
+    border-radius: 8px;
+    height: 250px;
+    max-width: 550px;
+    margin: 10px;
+}
+#myImage2{
+    border-radius: 8px;
+    height: 250px;
+    max-width: 550px;
+    margin: 10px;
+    margin-top: none;
+    
+}
+#myImage3{
+    border-radius: 8px;
+    height: 250px;
+    max-width: 550px;
+    margin: 10px;
+    margin-top: none;
+}
+#myImage4{
+    border-radius: 8px;
+    height: 250px;
+    max-width: 550px;
+    margin: 10px;
+    margin-top: none;
+}
+button{
+    background-color: rgb(127, 168, 255);
+    border-radius: 5px;
+    padding: 8px;
+    margin-right: 4px;
+
+}
+button:active{
+    background-color: rgb(7, 27, 71);
+}
+body{
+    background-color: rgb(43, 41, 41);
+}
+
